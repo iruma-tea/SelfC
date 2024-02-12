@@ -15,6 +15,10 @@
 			"path": "Chap03/Practice",
 			"name": "chap03_practice"
 		},
+		{
+			"path": "AppA/Chap03_Answer",
+			"name": "Chap03_Answer"
+		},
 	],
 	"settings": {
 		"[c]": {
